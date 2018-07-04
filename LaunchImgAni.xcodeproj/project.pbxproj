@@ -12,6 +12,7 @@
 		92241A1320EA0339005416B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92241A1120EA0339005416B9 /* Main.storyboard */; };
 		92241A1520EA033A005416B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92241A1420EA033A005416B9 /* Assets.xcassets */; };
 		92241A1820EA033A005416B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92241A1620EA033A005416B9 /* LaunchScreen.storyboard */; };
+		92E7C1C420EB8EE70071F79A /* BankGothic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92E7C1C320EB8EE70071F79A /* BankGothic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		92241A1420EA033A005416B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92241A1720EA033A005416B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92241A1920EA033A005416B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		92E7C1C320EB8EE70071F79A /* BankGothic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BankGothic.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		92241A0120EA0338005416B9 = {
 			isa = PBXGroup;
 			children = (
+				92E7C1C320EB8EE70071F79A /* BankGothic.ttf */,
 				92241A0C20EA0339005416B9 /* LaunchImgAni */,
 				92241A0B20EA0339005416B9 /* Products */,
 			);
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				92E7C1C420EB8EE70071F79A /* BankGothic.ttf in Resources */,
 				92241A1820EA033A005416B9 /* LaunchScreen.storyboard in Resources */,
 				92241A1520EA033A005416B9 /* Assets.xcassets in Resources */,
 				92241A1320EA0339005416B9 /* Main.storyboard in Resources */,
@@ -280,6 +284,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3HXS5BHKBP;
 				INFOPLIST_FILE = LaunchImgAni/Info.plist;
@@ -298,6 +303,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3HXS5BHKBP;
 				INFOPLIST_FILE = LaunchImgAni/Info.plist;
