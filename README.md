@@ -4,4 +4,4 @@ Launch image Animation &amp; Custom font &amp; 主要功能是学到了如何自
 
 preview      
 
-![graph]https://raw.githubusercontent.com/youngxkk/LaunchImgAni/master/SimulatorScreenShot.png
+![graph](https://raw.githubusercontent.com/youngxkk/LaunchImgAni/master/SimulatorScreenShot.png)
